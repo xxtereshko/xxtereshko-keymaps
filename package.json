@@ -4,6 +4,10 @@
   "publisher": "xxtereshko",
   "description": "",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxtereshko/xxtereshko-keymaps"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
